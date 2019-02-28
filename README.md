@@ -1,50 +1,59 @@
-## Your Name
+## Lauren Qurashi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](www.linkedin.com/in/LaurenQurashi) 
+
+I'm a passionate and adaptable **Full Stack Junior Developer** with a keen interest in web development. Since graduating university I have been working in HR for a start up company, helping evolve and shape employees futures. Automation has always been something I am passionate about, and in January 2019 I decided to work towards making that passion my purpose. Currently, I am a student at Makers Academy, due to graduate in May 2019. I am looking for oppertunities to express my creative nature and fascination for web development, in a company which will both nurture my continuous education, and challenge me to create outstanding programmes. 
 
 ## Skills
 
-#### This Skill
+#### Logical Thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+One of my strengths is the ability to think logically yet intuitively about processes and functions. This is a skill that I have honed throughout my career in HR in various contexts from policy writing to software development. For example, during my time as a HR Assistant, I collaborated in the creation of a new portal for tracking holiday and absences. This involved working with the in house development team to create a beautifully designed system that was not only user friendly for employees, but suited to the job. 
 
-- Experience
-- Achievements
-- Evidence
+#### Adaptive Worker
 
-#### Another Skill
+I've achieved new heights of work environment adaptability during both my degree and HR employment. While I have always been a people person, HR enabled me to fine tune my team working abilities for a variety of tasks ranging from employee wellbeing events to launching new policies. Collaboration with others comes naturally to me, however I am also a very proactive and meticulous individual who is able to acomplish masses on her own; An example of this is my BSc in Psychology which involved a large proportion of selt directed study.   
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Quick Learner 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy thus far. Due to my inquisitive nature and my speedy knowledge onboarding, I was able to create a mock web page in my spare time using self taught basics of javascript, CSS, HTML, and Bootstrap for my personal web development interest prior to joining Makers.
+
+#### Creative Innovator
+
+Whist at univerisity, I founded and chaired a volunteering society focused on walking and helping rehome rescue dogs. Although it was an incredibly rewarding experience, persuing this society gave me a plethora of experience in creating new ideas, bringing them to life and formulating a working model. The society still runs on today and has recieved plenty of awards for it's work. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+#### Makers Academy (February 2019 to May 2019)
+ 
+ Makers Academy is a highly selective and incredibly intense 16 week bootcamp which transforms individuals into Junior Developers. Makers Academy equips students with an entire toolkit of skills for full stack web development, however a few technologies and practices which have focus on are: 
+ 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bangor University (September 2015 to July 2018)
+- BSc Psychology (2:1)
+- Dissertation focused on Business Psychology, using eye tracking technology to investigate the visual processing patterns of   consumers.
+- Senior Lead of the Bangor Psychology Marketing Committee. 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### The Misbourne School, Buckinghamshire, UK. 2009- 2015.
+- A Level Geography (B), Psychology (C), English Literature (B). 
+- 9 GCSEs: 2As 7Bs including Triple Science Award, English, Maths, and ICT (distinction).
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Mountain Warehouse** (June 2018 to February 2019)    
+*Human Resources Assistant*  
+**Waitrose - Beaconsfield** (August 2013 to September 2015)   
+*Sales Assistant*  
+
+## Hobbies and Interests
+
+- Horseriding: I have been horseriding for 18 years competing regularly. 
+- Sailing: I've gained my Royal Yachting Association Level 2 award and occasionally sail when given the time. 
+- Popcorn Connoisseur.
+
