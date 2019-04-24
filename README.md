@@ -1,6 +1,6 @@
 ## Lauren Qurashi
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](www.linkedin.com/in/LaurenQurashi) 
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Networks and Media](#networks-and-media)
 
 I'm a passionate and adaptable Full Stack Junior Developer with a keen interest in web development. Since graduating university I have been working in HR for a start up company, helping evolve and shape employees futures. Automation has always been something I am passionate about, and in January 2019 I decided to work towards making that passion my purpose. Currently, I am a student at Makers Academy, due to graduate in May 2019. I am looking for opportunities to express my creative nature and fascination for web development, in a company which will both nurture my continuous education, and challenge me to create outstanding programmes.
 
