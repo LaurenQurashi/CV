@@ -1,8 +1,8 @@
 ## Lauren Qurashi
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Networks and Media](#networks-and-media)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Networks and Media](#networks-and-media)
 
-I'm a passionate and adaptable Full Stack Junior Developer with a keen interest in web development. Since graduating university I have been working in HR for a start up company, helping evolve and shape employees futures. Automation has always been something I am passionate about, and in January 2019 I decided to work towards making that passion my purpose. Currently, I am a student at Makers Academy, due to graduate in May 2019. I am looking for opportunities to express my creative nature and fascination for web development, in a company which will both nurture my continuous education, and challenge me to create outstanding programmes.
+I'm a passionate and adaptable *Full Stack Junior Developer* with a keen interest in web development. Since graduating university I have been working in HR for a start up company, helping evolve and shape employees futures. Automation has always been something I am passionate about, and in January 2019 I decided to work towards making that passion my purpose. Currently, I am a student at Makers Academy, due to graduate in May 2019. I am looking for opportunities to express my creative nature and fascination for web development, in a company which will both nurture my continuous education, and challenge me to create outstanding programmes.
 
 ## Skills
 
@@ -21,6 +21,14 @@ Learning new technologies is a key skill of mine, which can be demonstrated thro
 #### Creative Innovator
 
 Whist at university, I founded and chaired a volunteering society focused on walking and helping re home rescue dogs. Although it was an incredibly rewarding experience, pursuing this society gave me a plethora of experience in creating new ideas, bringing them to life and formulating a working model. The society still runs on today and has received plenty of awards for its work.
+
+
+## Projects
+
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| 1. Makers BnB in Ruby and Javascript ([Repo](https://github.com/LaurenQurashi/MakersBnB)) |This project was set during my time at Makers Academy. The task was to replicate AirBnb, but our team decided to throw in our own twist. The main point of the task was to practice an Agile workflow and team collaboration, which our team excelled at. During this project, I also ambitious to practice both my Javascript and Ruby abilities, so I decided to learn a lot about APIs, and chose to make one from scratch. |Ruby, Javascript | RSpec, Jasmine, Capybara |
+| 2. Bookmarks ([Repo](https://github.com/LaurenQurashi/Bookmarks)) | This project involed using databases to make a bookmark manager. This project was my first experience with using databases, and we negotiated this feature using TablePlus and postgreSQL. This project also taught me wonders about using imported CSS libraries such as bootstrap, rather than self made style sheets. | Ruby, SQL, PostgreSQL, Bootstrap |RSpec, Capybara |
  
 ## Education
 
@@ -29,8 +37,8 @@ Whist at university, I founded and chaired a volunteering society focused on wal
 Makers Academy is a highly selective and incredibly intense 16 week bootcamp which transforms individuals into Junior Developers. Makers Academy equips students with an entire toolkit of skills for full stack web development, however a few technologies and practices which have focus on are:
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, SQL, HTML, CSS
+- RSpec, Jasmine, Capybara
 
 
 #### Bangor University (September 2015 to July 2018)
