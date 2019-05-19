@@ -37,10 +37,16 @@ Whist at university, I founded and chaired a volunteering society focused on wal
 
 Makers Academy is a highly selective and incredibly intense 16 week bootcamp which transforms individuals into Junior Developers. Makers Academy equips students with an entire toolkit of skills for full stack web development, however a few technologies and practices which have focus on are:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, SQL, HTML, CSS
-- RSpec, Jasmine, Capybara
+- Pair programming
+- OOP best practices
+- All projects written using TDD
+- Agile development process and XP values
+- Ruby, Rails, JavaScript, Sinatra
+- RSpec, Capybara, Jasmine
+- Git workflow
+- Travis CI
+- Heroku and AWS deployment
+- Code reviews
 
 
 #### Bangor University (September 2015 to July 2018)
